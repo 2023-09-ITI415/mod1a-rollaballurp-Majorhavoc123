@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Keyboard Input save.unity
+    guid: 02d7790489818b140897d4abc0289e03
   m_configObjects: {}
